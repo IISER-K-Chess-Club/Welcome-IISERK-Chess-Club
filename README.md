@@ -1,7 +1,7 @@
 # Welcome to the Chess Club of IISER Kolkata!
 We heartily welcome you to our chess club as we practice and hone our skills in the game. The primary vision of the club is to act as a platform for players to sharpen their skills in the game, increase their critical thinking and to promote chess in the institute and beyond.
 
-To know more about our club, check out our website: https://www.iiserkol.ac.in/~chess.activity/
+To know more about our club, check out our website: [https://www.iiserkol.ac.in/~chess.activity/](https://www.iiserkol.ac.in/~chess.activity/)
 ![club image](img.png)
 ## Registration
 You will we provided with your id's (for instance: 18MS112) and mailing addresses (for instance: dk18ms112@iiserkol.ac.in) once you join the institute. First create an account on [Lichess](https://lichess.org/) if you don't have one, and send a request to join our team [IISER-K Chess Club](https://lichess.org/team/iiserk-chess-club). 
