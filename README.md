@@ -21,10 +21,10 @@ Below are a list of resources for chess enthusiasts of all skill levels to impro
 - **General Play**
   - Think "checks, captures, threats" every move
   - You're mostly not able to hold your pieces, and you're losing them either because the opponent attacked them, and you didnt see, or the opponent forked 2 pieces who both were undefended. So whenever developing pieces, ensure that they are defended.
-  - [Strategic Ideas in the Opening | Seirawan vs. Miles - GM Yasser Seirawan](https://www.youtube.com/watch?v=Ohf79-nlekc&list=PLVWaFpMwtaGiVZ77NhhvGGGzvF7oFSWcA&index=13)
+  - [Strategic Ideas in the Opening Seirawan vs. Miles - GM Yasser Seirawan](https://www.youtube.com/watch?v=Ohf79-nlekc&list=PLVWaFpMwtaGiVZ77NhhvGGGzvF7oFSWcA&index=13)
   - Never resign! (against players at your level and within reason). People blunder a lot, be ready to take advantage!
   - Play as many online games as you can, your best way to increase your level is to keep playing, gaining experience, and analysing your games after the match, and try not to repeat those mistakes again.
-  - [Play winning chess by Yasser Seirawan] (https://drive.google.com/file/d/12yNlUmwQMKKjpe9Pmvbeux-i6i_MpXbB/view?usp=drivesdk)
+  - [Play winning chess by Yasser Seirawan](https://drive.google.com/file/d/12yNlUmwQMKKjpe9Pmvbeux-i6i_MpXbB/view?usp=drivesdk)
   - [Saint Louis Chess Club Videos](https://www.youtube.com/playlist?list=PLVWaFpMwtaGj-HHi0t8bHxFzNtDwLoWon)
 
 - **Opening**
@@ -33,7 +33,6 @@ Below are a list of resources for chess enthusiasts of all skill levels to impro
   - To control the center, try not exchanging your center pawns with side pawns (also called flank pawns).
   - Make sure to castle your king. If your opponent hasnt castled, and you have, then try to open up the center so that the enemy king is exposed.
   - DO NOT study predefined openings, only play with your logic and opening principles.
-  - [Anatoly Karpov - How to Play the English Opening]()
   - [Top 10 opening principles](http://www.chessfornovices.com/chessopeningstrategy-top10principles.html)
   - [What Do I Move in the Opening? - Yasser Seirawan](https://www.youtube.com/watch?v=2WxcHxN9nQs&list=PLVWaFpMwtaGiVZ77NhhvGGGzvF7oFSWcA&index=77)
   
