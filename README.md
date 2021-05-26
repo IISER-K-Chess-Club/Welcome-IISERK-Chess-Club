@@ -71,19 +71,19 @@ Below are a list of resources for chess enthusiasts of all skill levels to impro
 
 - **Opening**
   - Learn refutations of common gambits.
-  - [Winning Chess Openings by Yasser Seirawan](https://drive.google.com/file/d/13EJ8wNr39PUAzIVMB_DmBaJaSm0zON14/view?usp=drivesdk)
+  - Winning Chess Openings by Yasser Seirawan
   - [Youtube - Hanging Pawns (has a detailed catalogue on most openings and variations)](https://www.youtube.com/channel/UCkJdvwRC-oGPhRHW_XPNokg)
 
 - **Middle Game**
-  - [Winning Chess Strategies by Yasser Seirawan](https://drive.google.com/file/d/136mTxiX8WQmX4_uAcahcShJgHW3Udr8n/view?usp=drivesdk)
+  - Winning Chess Strategies by Yasser Seirawan
   - [Karpov and his Ruy Lopez- Mastering the Middlegame - GM Ben Finegold](https://www.youtube.com/watch?v=enR0ntHVjG8)
 
 - **End Game**
   - [King, rook and pawn endgames (Lucena, Philidor, Vancura positions), John Bartholomew's videos on these are excellent](https://www.youtube.com/channel/UC6hOVYvNn79Sl1Fc1vx2mYA)
   - Other piece mates (KBB vs K, KBN vs K although extremely uncommon)
   - Learn how to try and force draws in losing positions (perpetual checks, stalemates, exchange down to insufficient mating material)
-  - [Winning Chess Endings by Yasser Seirawan](https://drive.google.com/file/d/131TvzVx4pElvrC7yu7HEJWGxSoe12Pqj/view?usp=drivesdk)
-  - [Pandolfinis endgame course](https://drive.google.com/file/d/1I4OmAvcxqKLjFhBNo5wJM3oqW7EqThXR/view?usp=sharing)
+  - Winning Chess Endings by Yasser Seirawan
+  - Pandolfinis endgame course
   
 ### Advanced (1800-2200 and above)
 > "Always look for a better move" :)
