@@ -24,7 +24,7 @@ Below are a list of resources for chess enthusiasts of all skill levels to impro
   - [Strategic Ideas in the Opening Seirawan vs. Miles - GM Yasser Seirawan](https://www.youtube.com/watch?v=Ohf79-nlekc&list=PLVWaFpMwtaGiVZ77NhhvGGGzvF7oFSWcA&index=13)
   - Never resign! (against players at your level and within reason). People blunder a lot, be ready to take advantage!
   - Play as many online games as you can, your best way to increase your level is to keep playing, gaining experience, and analysing your games after the match, and try not to repeat those mistakes again.
-  - [Play winning chess by Yasser Seirawan](https://drive.google.com/file/d/12yNlUmwQMKKjpe9Pmvbeux-i6i_MpXbB/view?usp=drivesdk)
+  - Play winning chess by Yasser Seirawan
   - [Saint Louis Chess Club Videos](https://www.youtube.com/playlist?list=PLVWaFpMwtaGj-HHi0t8bHxFzNtDwLoWon)
 
 - **Opening**
