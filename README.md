@@ -76,7 +76,7 @@ Below are a list of resources for chess enthusiasts of all skill levels to impro
 
 - **Middle Game**
   - [Winning Chess Strategies by Yasser Seirawan](https://drive.google.com/file/d/136mTxiX8WQmX4_uAcahcShJgHW3Udr8n/view?usp=drivesdk)
-  - [Karpov and his Ruy Lopez | Mastering the Middlegame - GM Ben Finegold](https://www.youtube.com/watch?v=enR0ntHVjG8)
+  - [Karpov and his Ruy Lopez- Mastering the Middlegame - GM Ben Finegold](https://www.youtube.com/watch?v=enR0ntHVjG8)
 
 - **End Game**
   - [King, rook and pawn endgames (Lucena, Philidor, Vancura positions), John Bartholomew's videos on these are excellent](https://www.youtube.com/channel/UC6hOVYvNn79Sl1Fc1vx2mYA)
